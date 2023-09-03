@@ -1,0 +1,1 @@
+streamlit run "C:\Users\manju\Desktop\projects\Multiple_disease_prediction_folder\Multiple disease prediction ui code.py"
